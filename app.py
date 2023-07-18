@@ -8,10 +8,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-   print('Request for index page received')
-   return {'message': 'Hello, World!'}
-
-
+   return {'Dev': 'Dev'}
 
 if __name__ == '__main__':
    app.run()
+
