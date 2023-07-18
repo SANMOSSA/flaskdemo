@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DoctorHelperAI-Backend-DEV'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E8BFC8825E94A7096B6D38A98028CDA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C304F93BC4FC46719BF8B2243FFEC42A }}
